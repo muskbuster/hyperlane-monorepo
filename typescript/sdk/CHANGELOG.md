@@ -1,5 +1,16 @@
 # @hyperlane-xyz/sdk
 
+## 5.8.0
+
+### Minor Changes
+
+- 7b3b0790: Support using apiKey for CoinGeckoTokenPriceGetter
+
+### Patch Changes
+
+- @hyperlane-xyz/utils@5.8.0
+- @hyperlane-xyz/core@5.7.1
+
 ## 5.7.0
 
 ### Minor Changes
